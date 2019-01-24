@@ -7,6 +7,9 @@ In any folder directory, open command prompt and type belwo commands:-
 ### `git clone https://github.com/MohamedEl-Rabea/Beer-Bank-App`
 Will clone all source code to your local machine.<br>
 
+### `cd Beer-Bank-App`
+Will navigate to the root directory of the App.
+
 ### `npm install`
 Will install all the required dependency.<br>
 
