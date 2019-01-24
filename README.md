@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In any folder directory, you can follow belwo steps:
 
-### `git Clone <Repo_URL>`
+### `git Clone https://github.com/MohamedEl-Rabea/Beer-Bank-App`
 Will clone all source code to your local machine.<br>
 
 ### `npm install`
