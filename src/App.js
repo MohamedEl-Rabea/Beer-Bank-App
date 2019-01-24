@@ -33,7 +33,7 @@ class App extends Component {
     this.setState({ showModal: false });
   }
   handleLinkClick = (isFavorite) => {
-    this.setState({ showFavorite: isFavorite });
+    this.setState({ showFavorite: isFavorite, filterText: '' });
   }
   render() {
     return (
