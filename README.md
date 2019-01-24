@@ -1,3 +1,5 @@
+Make sure that you have node.js installed with v8.11.1 or higher.
+
 ## Luanching the app
 
 In any folder directory, you can follow belwo steps:
